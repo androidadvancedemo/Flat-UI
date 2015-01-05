@@ -1,4 +1,7 @@
-Flat-UI
-=======
+https---github.com-androidadvancedemo-Flat-UI
+=============================================
 
-Android Flat UI demo
+Flat UI android code demo
+
+
+
